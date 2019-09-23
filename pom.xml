@@ -97,11 +97,6 @@
     </profiles>
 
     <dependencies>
-        <dependency>
-            <groupId>com.hundsun.rdc.bdata</groupId>
-            <artifactId>bdata-stream-spark2-driver</artifactId>
-            <version>1.0.1</version>
-        </dependency>
 
         <!--junit 5-->
         <dependency>
